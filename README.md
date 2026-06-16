@@ -13,8 +13,8 @@ In this project we are presenting useful information on a specialized part of cy
 
 ##### Project Team Members
 
--*Gulpari Alandarova*
--*Rafia Riana*
--*Shima Vosoogh*
+- *Gulpari Alandarova*
+- *Rafia Riana*
+- *Shima Vosoogh*
 
 
