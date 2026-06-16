@@ -15,7 +15,7 @@ In this project we are presenting useful information on a specialized part of cy
 ### 🚀 Common ways of implimenting steganography 
 - **Image Steganography (Most Popular):**
 - **Text Steganography:** 
-- **Audio and Video Steganography:**
+- **Video Steganography:**
 
 ##### Project Team Members
 
