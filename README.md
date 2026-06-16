@@ -1,5 +1,11 @@
 # CEP146-Project1
 
+## 🎯 Project Overview
+This project aims to research and synthesize our findings into a short youtube video. 
+
+- **Target Duration**: 3 mintues
+- **Core Goal**: Educate viewers on our subject
+
 ## Cybersecurity "Steganography"
 
 Security through invisibility, rather than security through obscurity.
