@@ -1,0 +1,24 @@
+# Information Security Overview
+
+## What is Information Security?
+
+Information Security (InfoSec) is the practice of protecting information from unauthorized access, modification, disclosure, or destruction.
+
+The main objectives of information security are commonly known as the CIA Triad:
+
+### Confidentiality
+Ensuring that information is accessible only to authorized individuals.
+
+### Integrity
+Ensuring that information remains accurate and unaltered.
+
+### Availability
+Ensuring that information is available when needed by authorized users.
+
+## Importance of Information Security
+
+As digital systems become increasingly integrated into everyday life, protecting sensitive information has become essential. Information security helps prevent data breaches, cyberattacks, identity theft, and unauthorized access to confidential information.
+
+## Relation to Steganography
+
+Steganography is one of the techniques used in information security. While encryption protects the content of a message, steganography hides the existence of the message itself. Together, these techniques can provide stronger protection for sensitive information.
