@@ -1,0 +1,211 @@
+# Image Steganography
+
+## Introduction
+
+Image steganography is the practice of hiding secret information inside digital images without noticeably altering their appearance. The primary objective of steganography is to conceal the existence of a message, allowing information to be transmitted secretly.
+
+Unlike encryption, which protects the content of a message by making it unreadable, steganography hides the message itself. As a result, an image containing hidden information appears completely normal to anyone who views it.
+
+Today, image steganography is widely used in cybersecurity, digital watermarking, copyright protection, and secure communication systems.
+
+---
+
+## History of Steganography
+
+The concept of steganography dates back thousands of years. The word "steganography" comes from the Greek words *steganos* (covered) and *graphein* (writing), meaning "covered writing."
+
+Some historical examples include:
+
+- Ancient Greeks wrote secret messages on wooden tablets and covered them with wax.
+- During wartime, messages were hidden in clothing, books, or invisible ink.
+- In World War II, microdots were used to conceal information inside tiny images.
+- With the rise of computers and digital media, steganography evolved into digital steganography, allowing data to be hidden inside images, audio files, videos, and other digital formats.
+
+Today, digital image steganography is one of the most popular forms of steganography because images are widely shared across the internet and social media platforms.
+
+---
+
+## How Digital Images Store Information
+
+A digital image consists of a large number of pixels. Each pixel stores color information.
+
+For example:
+
+- Grayscale images store a single intensity value per pixel.
+- Color images typically use RGB (Red, Green, Blue) values.
+- Each color channel usually ranges from 0 to 255.
+
+Since images contain millions of pixels, they provide a large amount of space where information can be hidden without creating visible changes.
+
+---
+
+## How Image Steganography Works
+
+The basic idea behind image steganography is to embed secret data into image pixels.
+
+The process generally involves:
+
+1. Selecting a cover image.
+2. Preparing a secret message.
+3. Converting the message into binary form.
+4. Embedding the binary data into pixel values.
+5. Generating a new image called the stego image.
+6. Extracting the hidden information using a decoding algorithm.
+
+To a normal viewer, the stego image appears identical to the original image.
+
+---
+
+## Least Significant Bit (LSB) Technique
+
+The most common image steganography technique is the Least Significant Bit (LSB) method.
+
+In digital images, each pixel value is represented by binary digits.
+
+Example:
+
+Original pixel value:
+
+11001010
+
+After embedding one bit:
+
+11001011
+
+Only the last bit changes, causing a difference that is virtually impossible for the human eye to detect.
+
+Because of its simplicity and efficiency, LSB is one of the most widely implemented steganography methods.
+
+---
+
+## Types of Image Steganography
+
+### Spatial Domain Techniques
+
+These methods directly modify image pixels.
+
+Examples:
+
+- Least Significant Bit (LSB)
+- Pixel Value Differencing (PVD)
+
+Advantages:
+
+- Easy to implement
+- High embedding capacity
+
+Disadvantages:
+
+- Less resistant to image processing attacks
+
+### Transform Domain Techniques
+
+These methods hide information in transformed image coefficients rather than directly modifying pixels.
+
+Examples:
+
+- Discrete Cosine Transform (DCT)
+- Discrete Wavelet Transform (DWT)
+
+Advantages:
+
+- Better security
+- More resistant to compression
+
+Disadvantages:
+
+- More complex implementation
+
+---
+
+## Applications of Image Steganography
+
+Image steganography has numerous real-world applications.
+
+### Secure Communication
+
+Sensitive information can be exchanged without revealing that communication is taking place.
+
+### Military and Intelligence Systems
+
+Governments and military organizations may use steganography for covert communication.
+
+### Digital Watermarking
+
+Companies embed ownership information into images to protect intellectual property.
+
+### Copyright Protection
+
+Hidden information can prove ownership of digital media.
+
+### Authentication
+
+Steganography can be used to verify the authenticity and integrity of digital files.
+
+### Medical Systems
+
+Patient information can be embedded within medical images to improve data management and privacy.
+
+---
+
+## Advantages
+
+- Conceals the existence of secret information.
+- Maintains image quality.
+- Difficult to detect visually.
+- Can be combined with encryption for enhanced security.
+- Useful for protecting confidential information.
+
+---
+
+## Limitations
+
+- Hidden data may be damaged by image compression.
+- Image editing can destroy embedded information.
+- Advanced steganalysis techniques may detect hidden data.
+- Large payloads may reduce image quality.
+
+---
+
+## Encryption vs. Steganography
+
+| Encryption | Steganography |
+|------------|--------------|
+| Protects the content of a message | Hides the existence of a message |
+| Produces unreadable data | Produces a normal-looking file |
+| Easy to identify that a secret message exists | Difficult to detect the presence of hidden information |
+| Focuses on confidentiality | Focuses on concealment |
+
+For maximum security, encryption and steganography are often used together.
+
+---
+
+## Steganalysis
+
+Steganalysis is the process of detecting hidden information within digital media.
+
+Researchers use statistical analysis and machine learning techniques to identify suspicious modifications in images.
+
+As steganography techniques improve, steganalysis methods continue to evolve to detect hidden communication more effectively.
+
+---
+
+## Future of Image Steganography
+
+With the growth of artificial intelligence and cybersecurity technologies, image steganography continues to evolve.
+
+Modern research focuses on:
+
+- AI-based steganography
+- Deep learning techniques
+- Improved resistance to detection
+- Higher data capacity
+- Secure cloud communication
+
+Future systems are expected to become more secure, efficient, and difficult to detect.
+
+---
+
+## Conclusion
+
+Image steganography is a powerful technique for hiding secret information within digital images. By making small modifications to image data, it enables covert communication while preserving the image's visual appearance. From ancient hidden messages to modern cybersecurity applications, steganography has played an important role in protecting information. Today, it remains a valuable tool for privacy, digital rights management, secure communication, and information security.
