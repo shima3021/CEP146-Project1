@@ -27,6 +27,17 @@ Several techniques are used to protect information and systems:
 
 Encryption converts readable information into an unreadable format. Only authorized users with the correct key can access the original data.
 
+### Authentication
+
+Authentication verifies the identity of users before granting access to a system or resource.
+
+### Access Control
+
+Access control restricts access to information and ensures that only authorized users can view or modify data.
+
+### Steganography
+
+Steganography hides information inside another file, such as an image, audio file, or video, making the existence of the hidden data difficult to detect.
 
 ## Relation to Steganography
 
