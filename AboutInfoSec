@@ -19,6 +19,15 @@ Ensuring that information is available when needed by authorized users.
 
 As digital systems become increasingly integrated into everyday life, protecting sensitive information has become essential. Information security helps prevent data breaches, cyberattacks, identity theft, and unauthorized access to confidential information.
 
+## Security Techniques
+
+Several techniques are used to protect information and systems:
+
+### Encryption
+
+Encryption converts readable information into an unreadable format. Only authorized users with the correct key can access the original data.
+
+
 ## Relation to Steganography
 
 Steganography is one of the techniques used in information security. While encryption protects the content of a message, steganography hides the existence of the message itself. Together, these techniques can provide stronger protection for sensitive information.
