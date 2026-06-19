@@ -1,12 +1,12 @@
-# CEP146-Project1
+# CEP146 - Project 1 🎯
 
 ## Team Members
 
 |        Name        | Student Number |
 | ------------------ | -------------- |
 | Gulpari Alandarova |   110214269    |
-| Rafia Riana        |   123635229    |
-| Shima Vosoogh      |   135121259    |
+|    Rafia Riana     |   123635229    |
+|   Shima Vosoogh    |   135121259    |
 
 ## Topic Summary
 
