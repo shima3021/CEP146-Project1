@@ -13,4 +13,6 @@ In this report, I only review some of the techniques used to hide text messages 
 In ancient world, text steganography has been used with physical objects such as using invisible inks or musical notes written on wood. These forms of text steganography has no value in the digital world. 
 In this reprot, I also focus mostly on the techniques used for digital information where the intention is to conceal a message or secret text digitally.
 
+More information on the Text Steganoraphy techniques can be found in textSteganographyMethods file.
+
 
