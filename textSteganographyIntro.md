@@ -7,6 +7,7 @@ Steganography refers to the practice of hiding information (e.g., a message) ins
 Text Steganography is one of the ancient and common use of steganography where the carrier is a text document/object. Although, it seems simple at the beginning, it can be quite challenging for a person or an auditor to find if a text document or object has been a carrier. Imagine one would choose to hide a message "This book is ancient" inside a book of 25 pages with each page containing 100 words. Obviously, in 2500 words, there are many opportunities to hide the message.
 
 Text Steganography also does not require that the secret message to be always a text. For instance, the secret message can be an audio file. However, since the carrier is a text document/object, one would first convert the audio file into text to be able to use a text carrier. 
+In this report, we only focus on hiding text in text carrier methods.
 
 # Discovering the secret message?
 
