@@ -17,4 +17,4 @@ Once a carrier becomes a stegano (contain the secret message), the receiver of t
  - The sender will tell the receiver how to discover the message (e.g., telling them in a separate letter).
  - Using a a common software and identical configurations by the sender and the receiver of the stegano.
 
-More information on the Text Steganoraphy techniques can be found in textSteganographyMethods file at: https://github.com/shima3021/CEP146-Project1/blob/textSteganography/textSteganographyMethods
+More information on the Text Steganoraphy techniques can be found in textSteganographyMethods file at: https://github.com/shima3021/CEP146-Project1/blob/textSteganography/textSteganographyMethods.md
