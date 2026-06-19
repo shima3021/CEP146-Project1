@@ -1,3 +1,14 @@
 Steganography refers to the practice of hiding information (e.g., a message) inside another information object (e.g., a text document, an image, or an auido/video file). 
 The difference with cryptography would be that the hidden message itself does not change, but it is only embedded inside another information object (also called the carrier). In comparison, cryptography typically scrambles the information (message) to generate a different message.
 
+Once a carrier becomes a stegano (contain the secret message), the reciever of the message must know where to look for the embedded message inside the stegano to quickly discover the message. 
+For this reason, there is usually either a prearrangement between the sender and the receiver of the stegano on how to look up the secret message or the sender will tell the receiver how to discover the message in a different way (e.g., calling them on the phone).
+
+Text Steganography is one of the ancient and common use of steganography where the carrier is a text document/object. Although, it seems simple at the beginning, it can be quite challenging for a person or an auditor to find if a text document or object has been a carrier.
+Imagine one would choose to hide a message "This book is ancient" inside a book of 25 pages with each page containing 100 words. Obviously, in 2500 words, there are many opportunities to hide the message.
+
+Text Steganography also does not require that the secret message to be always a text. For instance, the secret message can be an audio file. However, since the carrier is a text document/object, one would first convert the audio file into text to be able to use a text carrier. 
+In this porject report, I only review some of the techniques used to hide text messages in text carriers.
+
+
+
