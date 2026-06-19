@@ -34,4 +34,4 @@ Gulpari will be covering **image steganography**, which is one of the most popul
 Rafia will be covering **video steganography**. She will explain how secret information can be hidden inside videos using frames, audio, or other parts of the video file.
 
 **Shima Vosoogh:**
-Shima will be covering **text steganography**. She will explain how information can be hidden in text through things like spacing, formatting, word choices, or patterns.
+Shima will be covering **text steganography**. She will explain how information can be hidden in text through various structural, syntactical, and semantic methods.
