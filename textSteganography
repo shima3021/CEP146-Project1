@@ -1,1 +1,3 @@
-# To be completed (Shima)
+Steganography refers to the practice of hiding information (e.g., a message) inside another information object (e.g., a text document, an image, or an auido/video file). 
+The difference with cryptography would be that the hidden message itself does not change, but it is only embedded inside another information object (also called the carrier). In comparison, cryptography typically scrambles the information (message) to generate a different message.
+
