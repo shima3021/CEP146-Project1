@@ -30,7 +30,7 @@ In this project we are presenting useful information on a specialized part of cy
 **Gulpari Alandarova:**
 Gulpari will be covering **image steganography**, which is one of the most popular forms of steganography. She will explain how hidden information can be placed inside images without making the image look noticeably different.
 
-**Rafia Riana:**
+**Rafia Riana:**  
 Rafia will be covering **video steganography**. She will explain how secret information can be hidden inside videos using frames, audio, or other parts of the video file.
 
 **Shima Vosoogh:**
