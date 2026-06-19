@@ -8,7 +8,9 @@ Text Steganography is one of the ancient and common use of steganography where t
 Imagine one would choose to hide a message "This book is ancient" inside a book of 25 pages with each page containing 100 words. Obviously, in 2500 words, there are many opportunities to hide the message.
 
 Text Steganography also does not require that the secret message to be always a text. For instance, the secret message can be an audio file. However, since the carrier is a text document/object, one would first convert the audio file into text to be able to use a text carrier. 
-In this porject report, I only review some of the techniques used to hide text messages in text carriers.
+In this report, I only review some of the techniques used to hide text messages in text carriers.
 
+In ancient world, text steganography has been used with physical objects such as using invisible inks or musical notes written on wood. These forms of text steganography has no value in the digital world. 
+In this reprot, I also focus mostly on the techniques used for digital information where the intention is to conceal a message or secret text digitally.
 
 
